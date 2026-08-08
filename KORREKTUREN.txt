@@ -1,0 +1,150 @@
+MM2 Scanner - geprüfte Korrekturen (03.08.2026)
+
+- Sale-/Save-Beträge werden nicht mehr als Verkaufspreis gelesen.
+- MM2Store läuft bewusst sichtbar: Der Headless-Modus lieferte abweichende,
+  halbierte Kartenpreise.
+- Generisches Entfernen von "Knife"/"Gun" wurde entfernt.
+- Keine Fuzzy- oder Teilstring-Zuordnung mehr.
+- Produkt-URLs unterscheiden gleichnamige Artikel (Blossom/Ornament).
+- Billige Collectibles und Sets werden nicht als wertvolle Godlys gewertet.
+- Bei mehrdeutigen doppelten Titeln wird konservativ der höhere Preis genutzt,
+  damit kein falscher Billig-Deal entsteht.
+- Ausverkaufte Karten werden übersprungen.
+- Aktuelle und ältere Produktkarten-Selektoren werden unterstützt.
+- Lokalisierte US-/EU-Preisformate werden korrekt gelesen.
+- Bloxxer Lazy Loading wird schrittweise durchlaufen; Live-Test: 480 statt 30 Karten.
+- Nach exakten Alias-/URL-Treffern wird ein klarer bester Supreme-Treffer genutzt.
+  Unsichere Gleichstände und zu schwache Treffer werden weiterhin verworfen.
+- Die sechs Shops werden nach dem Supreme-Scan parallel verarbeitet.
+- MM2Store prüft Knives/Guns bis zur ersten leeren oder wiederholten Seite,
+  statt sich ausschließlich auf fest eingetragene Seitenzahlen zu verlassen.
+- Finale Architektur: erst den vollständigen Rohkatalog erfassen, anschließend
+  den gesamten Shop global gegen Supreme zuordnen.
+- Pro Shop kann jeder Supreme-Name nur von einer Produktkarte belegt werden.
+- Verifizierte Produkt-URLs und Aliase haben Vorrang vor Ähnlichkeit.
+- Schwache/mehrdeutige Treffer landen als REVIEW im CSV statt in den Deals.
+- Bekannte Collectible-Kollisionen landen als REJECTED im CSV.
+- Jede CSV enthält Status, Konfidenz und Begründung der Zuordnung.
+- Währungen werden nicht mehr anhand der sichtbaren Zahl umetikettiert.
+  Bei Bloxxer/Luger/BuyBlox werden eingebettete USD-Cents verwendet
+  (doubly-currency-usd bzw. data-price-cents).
+- Sichtbare EUR-Preise ohne verlässliche USD-Quelle werden verworfen.
+- Ausverkaufte echte Produkte reservieren weiterhin ihre Supreme-Identität;
+  verfügbare billige Collectibles können sie nicht ersetzen.
+- Verifizierte Kollisionen wie Bats/Bat, Cotton Candy/Candy und die billigen
+  Ornament-Varianten werden nicht als Deals verwendet.
+- Extrem niedrige Ergebnisse bleiben sichtbar, werden aber separat markiert
+  und – sofern der Shop einen geeigneten Produkt-Endpunkt bietet – erneut geprüft.
+
+Abschließender Live-Test:
+- Supreme: 195 Einträge.
+- Bloxxer: 480 Produktkarten nach vollständigem Lazy Loading.
+- MM2Store Soul: $51.98 statt des falschen $0.19-Treffers.
+- Bloxxer Heat: $0.19; Handsaw: $0.15; Chroma Fire Pets: $0.05.
+- Deal-Liste: 19 plausible Treffer, kein Treffer unter $0.95/100.
+
+Neue Ausgabe:
+- Alle verfügbaren Preise werden ohne obere Grenze von bestem bis schlechtestem
+  $/100-Ergebnis angezeigt.
+- Treffer unter $0.80/100 erscheinen zusätzlich vor der Gesamtliste mit Warnung.
+- Preise, die weniger als 45 % des Cross-Shop-Medians betragen, werden ebenfalls
+  als PREIS-AUSREISSER zur erneuten Kontrolle markiert.
+- Die vollständige Rangliste wird als scan_results/all_ranked_deals.csv gespeichert.
+- Ein ausgefallener Shop beendet nicht mehr den gesamten Lauf; Fehler und
+  ungewöhnlich niedrige Trefferzahlen pro Shop werden am Ende sichtbar gemeldet.
+
+Korrigierte Kontroll- und Euroausgabe:
+- Die erste Kontrolltabelle enthält ausschließlich Treffer unter $0.80/100.
+- Diese Extremtreffer werden über den gespeicherten Produktlink nochmals gegen
+  den aktuell verfügbaren Shopify-Variantenpreis geprüft.
+- Cross-Shop-Ausreißer stehen separat als unverbindliche Information und werden
+  nicht mehr mit echten Extremfehlern vermischt.
+- Eine zweite vollständige Rangliste zeigt €/100. Berechnung ausschließlich:
+  $/100 multipliziert mit USD->EUR; sichtbare Shop-Europreise werden nie benutzt.
+- Der USD->EUR-Kurs kommt bevorzugt vom täglichen ECB-Referenzkurs; offline wird
+  ein deutlich als Fallback dokumentierter Kurs verwendet.
+- Kurs, Quelle, Zeitpunkt und €/100 stehen im vollständigen CSV-Bericht.
+- UTF-8 wird für Windows stdout/stderr ausdrücklich aktiviert; Warnungen nutzen
+  zusätzlich robuste ASCII-Kennzeichnungen.
+
+Live geprüft:
+- Luger: Chroma Darkbringer $3.38; Logchopper $0.34;
+  Vampire's Edge $0.33; Ornament $2.94; Blossom $150.02.
+- MM2Store: Chroma Darkbringer $4.10; Logchopper $0.39;
+  Vampire's Edge $0.38; Ornament $2.78; kein falsches Blossom-Angebot.
+- BuyBlox: Blossom Gun $72.30; Logchopper $0.34;
+  Vampire's Edge $0.25; Ornament $1.58.
+- Bloxxer: 30 aktuelle Karten geladen; 15 eindeutige Supreme-Treffer.
+
+LOLGA-Erweiterung (07.08.2026):
+- LOLGA wurde als fünfter Shop vollständig in Parallelscan, Matching,
+  Ranglisten, Cross-Shop-Vergleich und CSV-Ausgabe aufgenommen.
+- Der Scanner stellt LOLGA ausdrücklich auf USD und prüft zusätzlich das
+  Dollarzeichen direkt an den Produktpreisen. EUR/GBP kann daher nicht als USD
+  in die $/100-Rangliste geraten.
+- Es wird nur sell_price verwendet; der durchgestrichene Vergleichspreis wird
+  ignoriert.
+- Lazy Loading wird bis zu einer stabilen Kartenanzahl durchlaufen.
+- "Notify Me" und Karten ohne Verkaufspreis gelten als nicht verfügbar.
+- Bundle/Set-Karten werden nicht als einzelne Supreme-Waffe übernommen.
+- Knife/Gun-Suffixe werden nur dann entfernt, wenn dadurch genau ein offizieller
+  Supreme-Name entsteht. Ein exakter Name wie "Flowerwood Gun" hat immer Vorrang
+  vor dem verkürzten "Flowerwood".
+- Spezielle LOLGA-Namen wie "Battle Axe 2 Knife", "Xeno Knife" und die
+  C.-/Chroma-Schreibweisen wurden eindeutig normalisiert.
+- Live-Test: 401 Produktkarten, alle 195 Supreme-Identitäten zugeordnet;
+  194 kaufbare Preise. Chroma Snowstorm war "Notify Me" und wurde ausgelassen.
+- Separater Teststart: python mainlolga.py
+
+StarPets-Erweiterung (07.08.2026):
+- StarPets wurde als sechster Shop in Parallelscan, Matching, Ranglisten,
+  Cross-Shop-Vergleich und CSV-Ausgabe aufgenommen.
+- "Mehr anzeigen" wird vollständig durchlaufen. Nach 720 Karten ersetzt
+  StarPets die sichtbare Liste teilweise durch weitere Seiten; der Scanner
+  sammelt deshalb jede einzelne Zwischen-Seite in einem URL-basierten Katalog.
+- Typ, Untertyp, Seltenheit, Jahr, Chroma-Status, Quellwährung und Quellpreis
+  werden direkt aus den strukturierten Produkt-Metadaten gelesen.
+- Nur Weapon + Godly/Ancient/Vintage/Unique wird mit Supreme abgeglichen.
+  Pets, Misc sowie Common/Uncommon/Rare/Legendary bleiben vollständig im
+  Audit-CSV sichtbar, werden aber als REJECTED aus den Deal-Listen entfernt.
+- Dadurch wird das billige 2026 Blossom (Uncommon) sicher verworfen, während
+  das echte 2023 Blossom (Godly) korrekt übernommen wird. Dasselbe schützt
+  Ornament, Bat und weitere gleichnamige Collectibles.
+- Chroma wird als eigenes Metadatenfeld gelesen und vor dem Matching an den
+  Namen angefügt. Die vier C.-Sondernamen werden anschließend eindeutig
+  normalisiert.
+- StarPets kann nach der Hydrierung von USD auf EUR wechseln. Jede Karte wird
+  deshalb anhand von priceCurrency ausgewertet. EUR wird mit genau demselben
+  USD->EUR-Kurs in USD zurückgerechnet, der später für die vollständige
+  EUR/100-Tabelle verwendet wird; eine bloße Umbenennung der Währung ist
+  ausgeschlossen.
+- Live-Test: 941 Katalogkarten, 191 Supreme-Kandidaten, 187 eindeutig
+  zugeordnete Identitäten und 183 aktuell kaufbare Preise.
+- Ausverkauft und daher nicht in Deals: Chroma Evergreen, Chroma Ornament,
+  Chroma Sands und C. Traveler's Gun.
+- Separater Teststart: python mainstarpets.py
+
+Tests:
+  python -m unittest -v test_scanner_logic.py
+
+Top-300-Ausgabe (08.08.2026):
+- Der Hauptlauf zeigt und speichert nur noch die besten 300 Deals.
+- Die USD- und die daraus umgerechnete EUR-Rangliste enthalten dieselben
+  300 Einträge in derselben Reihenfolge.
+- Die langen Zwischenlisten von Supreme und den sechs Shops werden im
+  Hauptlauf nicht mehr ausgegeben; die Trefferzahlen und Audit-CSVs bleiben.
+- Die Einzelstarts (z. B. mainbloxxer.py) zeigen weiterhin alle Shopartikel.
+- CSV: scan_results/top_300_deals.csv
+
+Start:
+  python main.py
+
+Bloxxer-Blossom-Kollision (08.08.2026):
+- Bloxxer verkauft zwei verschiedene Produkte mit dem sichtbaren Namen
+  Blossom. /products/blossom ist die echte Supreme-Waffe "Blossom Gun";
+  /products/blossom-1 ist ein billiges Collectible und kein Supreme-Blossom.
+- Die echte Produktseite wird nun ueber ihre verifizierte Route priorisiert.
+- Die Collectible-Route wird vor dem Preisvergleich immer verworfen, auch
+  wenn sie lieferbar ist und ihr Titel exakt "Blossom" lautet.
+- Zwei Regressionstests sichern beide Faelle ab: echte plus falsche Karte
+  gleichzeitig sowie die falsche Karte allein.

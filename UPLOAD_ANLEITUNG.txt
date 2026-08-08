@@ -1,0 +1,24 @@
+MM2 SCANNER – FERTIGE CLOUDVERSION
+
+Die Discord-Webhook ist bereits direkt in .github/workflows/main.yml eingebaut.
+Es muss kein Secret und keine URL mehr eingetragen werden.
+
+1. ZIP entpacken.
+2. Im leeren GitHub-Repository auf „uploading an existing file“ klicken.
+3. Den INHALT dieses Ordners komplett hineinziehen – nicht den äußeren Ordner
+   und nicht die ZIP-Datei.
+4. Prüfen, dass auf GitHub direkt main.py, scanner und .github erscheinen.
+5. Unten „Commit changes“ drücken.
+6. Actions > MM2 Deal Scan > Run workflow > Run workflow.
+
+Automatik:
+- kompletter Lauf jede Stunde
+- Discord-Nachricht mit den Top 25 nach jedem erfolgreichen Lauf
+- Alarmmarkierung unter EUR 1,50 pro 100 Value
+- klare Fehlermeldung bei einem unvollständigen Scan
+- LOLGA läuft in einer virtuellen normalen Browseranzeige, weil Cloudflare
+  den nativen Headless-Modus blockiert
+
+Wichtig: Auf GitHub darf kein zusätzlicher Ordner „MM2_Scanner_...“ um die
+Dateien herum entstehen. main.py muss direkt auf der ersten Repository-Seite
+sichtbar sein.
