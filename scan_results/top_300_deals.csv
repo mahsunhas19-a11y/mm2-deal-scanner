@@ -1,301 +1,301 @@
 ﻿rank,ratio_usd_per_100,website,name,price_usd,value,needs_check,flags,price_outlier_hint,cross_shop_median_usd,eur_per_100_from_usd,usd_to_eur_rate,fx_source,fx_timestamp
-1,2.4993,StarPets,Blossom,34.24,1370,False,,False,73.52,2.1809,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-2,2.4994,LOLGA,C. Traveler's Gun,3999.00,160000,False,,False,7582.05,2.1810,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-3,2.5544,StarPets,Traveler's Gun,132.83,5200,False,,True,347.94,2.2290,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-4,2.5846,StarPets,Sakura,35.15,1360,False,,False,74.79,2.2553,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-5,2.6261,StarPets,Chroma Sunset,183.83,7000,False,,False,351.88,2.2916,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-6,2.6552,StarPets,C. Vampire's Gun,770.02,29000,False,,False,890.64,2.3170,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-7,2.6961,StarPets,Chroma Evergreen,1132.37,42000,False,,False,2065.05,2.3526,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-8,2.7692,StarPets,Gingerblade,0.36,13,False,,True,1.15,2.4164,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-9,2.7823,StarPets,Evergun,95.99,3450,False,,False,183.52,2.4279,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-10,2.8111,StarPets,Chroma Heart Wand,119.47,4250,False,,False,251.14,2.4529,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-11,2.8812,StarPets,Celestial,70.59,2450,False,,False,149.80,2.5142,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-12,2.9023,StarPets,Sunrise,31.20,1075,False,,False,65.69,2.5326,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-13,2.9158,StarPets,Chroma Evergun,1691.18,58000,False,,False,2714.55,2.5444,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-14,2.9319,StarPets,Gingerscope,461.77,15750,False,,False,786.79,2.5584,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-15,2.9343,StarPets,Vampire's Gun,51.35,1750,False,,True,123.79,2.5605,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-16,2.9382,LOLGA,Chroma Bauble,999.00,34000,False,,False,1635.97,2.5639,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-17,2.9490,StarPets,Alienbeam,58.98,2000,False,,False,127.14,2.5733,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-18,2.9752,StarPets,Raygun,58.76,1975,False,,False,100.39,2.5962,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-19,2.9854,StarPets,Chroma Treat,52.99,1775,False,,True,123.79,2.6050,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-20,2.9942,StarPets,Chroma Sweet,51.65,1725,False,,True,121.09,2.6127,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-21,3.0079,StarPets,Chroma Beachy,42.11,1400,False,,True,99.09,2.6247,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-22,3.0381,StarPets,Vampire's Axe,48.61,1600,False,,False,91.42,2.6511,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-23,3.0592,StarPets,Evergreen,76.48,2500,False,,True,178.54,2.6695,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-24,3.0644,StarPets,Chroma Sunrise,329.42,10750,False,,False,513.30,2.6740,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-25,3.0712,LOLGA,C. Vampire's Gun,890.64,29000,False,,False,890.64,2.6799,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-26,3.0839,StarPets,Constellation,86.35,2800,False,,False,178.79,2.6910,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-27,3.0890,StarPets,Chroma Sands,44.79,1450,False,,True,101.79,2.6954,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-28,3.1017,LOLGA,Chroma Evergun,1799.00,58000,False,,False,2714.55,2.7066,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-29,3.1378,StarPets,Bauble,21.18,675,False,,False,46.79,2.7380,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-30,3.1513,StarPets,Chroma Raygun,441.18,14000,False,,False,825.09,2.7498,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-31,3.1579,StarPets,Chroma Icecream,60.00,1900,False,,True,133.39,2.7556,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-32,3.1588,StarPets,Chroma Watergun,82.13,2600,False,,False,177.54,2.7564,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-33,3.2047,StarPets,Spirit,20.67,645,False,,False,43.14,2.7964,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-34,3.2143,LOLGA,Chroma Raygun,450.00,14000,False,,False,825.09,2.8048,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-35,3.2172,StarPets,Chroma Bauble,1093.85,34000,False,,False,1635.97,2.8073,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-36,3.2188,StarPets,Chroma Slasher,1.03,32,False,,True,2.69,2.8087,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-37,3.2226,LOLGA,C. Constellation,999.00,31000,False,,False,1001.02,2.8120,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-38,3.2272,StarPets,Darkshot,58.09,1800,False,,False,96.02,2.8161,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-39,3.2291,StarPets,C. Constellation,1001.02,31000,False,,False,1001.02,2.8177,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-40,3.2333,LOLGA,Chroma Evergreen,1358.00,42000,False,,False,2065.05,2.8214,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-41,3.2558,LOLGA,Chroma Sunrise,350.00,10750,False,,False,513.30,2.8410,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-42,3.2620,StarPets,Turkey,57.90,1775,False,,False,123.79,2.8464,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-43,3.3035,StarPets,Traveler's Axe,267.58,8100,False,,False,499.19,2.8826,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-44,3.3126,StarPets,Snowcannon,22.36,675,False,,False,46.79,2.8906,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-45,3.3289,StarPets,Chroma Snowcannon,257.99,7750,False,,False,426.29,2.9048,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-46,3.3292,LOLGA,Chroma Alienbeam,799.00,24000,False,,False,1292.59,2.9050,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-47,3.3332,LOLGA,Chroma Snow Dagger,78.33,2350,False,,False,166.44,2.9085,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-48,3.3334,LOLGA,Chroma Snowstorm,141.67,4250,False,,False,236.04,2.9087,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-49,3.3458,LOLGA,Chroma Watergun,86.99,2600,False,,False,177.54,2.9195,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-50,3.3540,LOLGA,Traveler's Axe,271.67,8100,False,,False,499.19,2.9267,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-51,3.3692,StarPets,Sunset,21.90,650,False,,True,51.49,2.9400,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-52,3.3929,StarPets,Waves,9.50,280,False,,False,19.69,2.9606,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-53,3.4043,StarPets,Chroma Snow Dagger,80.00,2350,False,,False,166.44,2.9706,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-54,3.4070,StarPets,Ocean,9.71,285,False,,False,19.69,2.9730,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-55,3.4092,StarPets,Soul,22.33,655,False,,False,42.77,2.9748,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-56,3.4118,LOLGA,Chroma Heart Wand,145.00,4250,False,,False,251.14,2.9771,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-57,3.4180,LOLGA,Gingerscope,538.33,15750,False,,False,786.79,2.9825,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-58,3.4476,LOLGA,Chroma Sands,49.99,1450,False,,False,101.79,3.0084,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-59,3.4524,LOLGA,Chroma Sunset,241.67,7000,False,,False,351.88,3.0126,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-60,3.4615,StarPets,Eternalcane,0.45,13,False,,True,1.44,3.0205,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-61,3.4667,StarPets,Iceflake,0.52,15,False,,True,1.69,3.0250,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-62,3.4780,LOLGA,Evergun,119.99,3450,False,,False,183.52,3.0349,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-63,3.4796,LOLGA,Evergreen,86.99,2500,False,,False,178.54,3.0363,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-64,3.5385,StarPets,Virtual,0.46,13,False,,True,1.54,3.0877,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-65,3.5438,LOLGA,Raygun,69.99,1975,False,,False,100.39,3.0923,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-66,3.5484,LOLGA,Chroma Snowcannon,275.00,7750,False,,False,426.29,3.0963,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-67,3.5707,LOLGA,Chroma Beachy,49.99,1400,False,,False,99.09,3.1158,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-68,3.5711,LOLGA,Constellation,99.99,2800,False,,False,178.79,3.1161,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-69,3.5931,StarPets,Borealis,5.21,145,False,,False,8.99,3.1353,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-70,3.6000,StarPets,Ornament,3.06,85,False,,True,7.19,3.1414,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-71,3.6045,StarPets,Darksword,63.98,1775,False,,False,101.02,3.1453,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-72,3.6061,StarPets,Elderwood Blade,1.19,33,False,,True,3.09,3.1466,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-73,3.6158,LOLGA,Darksword,64.18,1775,False,,False,101.02,3.1551,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-74,3.6286,StarPets,Sands,3.81,105,False,,True,9.14,3.1663,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-75,3.6343,StarPets,Watergun,6.36,175,False,,True,15.19,3.1713,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-76,3.6387,StarPets,Snowstorm,11.28,310,False,,False,17.30,3.1751,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-77,3.6405,StarPets,Rainbow Gun,15.29,420,False,,False,24.69,3.1767,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-78,3.6476,StarPets,Beachy,3.83,105,False,,True,9.14,3.1829,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-79,3.6489,LOLGA,Blossom,49.99,1370,False,,False,73.52,3.1840,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-80,3.6716,StarPets,Xenoshot,14.87,405,False,,False,29.77,3.2038,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-81,3.6731,LOLGA,Celestial,89.99,2450,False,,False,149.80,3.2051,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-82,3.6757,LOLGA,Sakura,49.99,1360,False,,False,74.79,3.2074,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-83,3.6837,LOLGA,Chroma Icecream,69.99,1900,False,,False,133.39,3.2144,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-84,3.6864,StarPets,Xenoknife,14.93,405,False,,False,29.77,3.2168,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-85,3.6921,LOLGA,Traveler's Gun,191.99,5200,False,,False,347.94,3.2217,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-86,3.6968,StarPets,Blizzard,11.46,310,False,,False,14.99,3.2258,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-87,3.7073,StarPets,Rainbow,15.20,410,False,,False,24.69,3.2350,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-88,3.7143,StarPets,Chroma Deathshard,1.30,35,False,,True,3.09,3.2411,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-89,3.7245,StarPets,Chroma Snowstorm,158.29,4250,False,,False,236.04,3.2500,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-90,3.7283,StarPets,Flowerwood Gun,9.88,265,False,,False,19.69,3.2533,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-91,3.7308,StarPets,Flowerwood,9.70,260,False,,False,19.69,3.2555,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-92,3.7400,StarPets,Icecream,5.61,150,False,,True,12.74,3.2635,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-93,3.7494,LOLGA,Vampire's Axe,59.99,1600,False,,False,91.42,3.2717,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-94,3.7680,StarPets,Harvester,9.42,250,False,,False,19.69,3.2880,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-95,3.8050,StarPets,Bloom,15.22,400,False,,False,30.34,3.3202,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-96,3.8133,StarPets,Pearl,2.86,75,False,,False,6.14,3.3275,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-97,3.8251,StarPets,Chroma Blizzard,210.38,5500,False,,False,275.09,3.3378,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-98,3.8255,LOLGA,Chroma Sweet,65.99,1725,False,,False,121.09,3.3381,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-99,3.8500,StarPets,Pearlshine,3.08,80,False,,False,5.59,3.3595,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-100,3.8883,LOLGA,Darkshot,69.99,1800,False,,False,96.02,3.3930,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-101,3.8889,StarPets,Chroma Gingerblade,1.05,27,False,,True,2.44,3.3934,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-102,3.8889,StarPets,Chroma Tides,1.05,27,False,,True,3.09,3.3934,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-103,3.8941,StarPets,Heart Wand,13.24,340,False,,False,24.09,3.3980,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-104,3.8947,StarPets,Swirly Axe,1.48,38,False,,False,2.94,3.3985,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-105,3.9395,LOLGA,Chroma Blizzard,216.67,5500,False,,False,275.09,3.4376,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-106,3.9431,LOLGA,Chroma Treat,69.99,1775,False,,False,123.79,3.4407,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-107,3.9537,StarPets,Flora,16.21,410,False,,False,26.29,3.4500,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-108,3.9714,StarPets,Phantom,1.39,35,False,,True,3.39,3.4655,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-109,3.9714,StarPets,Snow Dagger,6.95,175,False,,True,15.94,3.4655,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-110,3.9994,LOLGA,Vampire's Gun,69.99,1750,False,,False,123.79,3.4899,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-111,3.9995,LOLGA,Alienbeam,79.99,2000,False,,False,127.14,3.4900,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-112,4.0000,StarPets,Swirly Blade,0.48,12,False,,True,1.54,3.4904,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-113,4.0200,StarPets,Sweet,6.03,150,False,,False,12.89,3.5079,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-114,4.0435,StarPets,Green Luger,0.93,23,False,,True,2.74,3.5283,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-115,4.0455,StarPets,Chroma Boneblade,0.89,22,False,,True,2.79,3.5301,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-116,4.1096,LOLGA,Chroma Ornament,75.00,1825,False,,False,136.19,3.5860,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-117,4.1500,StarPets,Australis,5.81,140,False,,False,10.64,3.6213,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-118,4.2121,LOLGA,Makeshift,1.39,33,False,,False,2.70,3.6755,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-119,4.2298,LOLGA,Sunrise,45.47,1075,False,,False,65.69,3.6909,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-120,4.2500,StarPets,Chroma Fang,1.36,32,False,,False,2.59,3.7086,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-121,4.2727,StarPets,Makeshift,1.41,33,False,,False,2.70,3.7284,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-122,4.3000,StarPets,Clockwork,0.43,10,False,,True,1.29,3.7522,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-123,4.3000,StarPets,Fang,0.43,10,False,,True,2.00,3.7522,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-124,4.3000,StarPets,Spider,0.43,10,False,,True,1.54,3.7522,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-125,4.3097,StarPets,Treat,6.68,155,False,,False,13.04,3.7606,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-126,4.3429,StarPets,Red Luger,1.52,35,False,,False,2.79,3.7896,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-127,4.3438,StarPets,Lightbringer,1.39,32,False,,True,3.69,3.7904,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-128,4.3538,StarPets,Chroma Darkbringer,2.83,65,False,,False,5.49,3.7992,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-129,4.3682,Bloxxer,Gingerscope,687.99,15750,False,,False,786.79,3.8117,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-130,4.3846,StarPets,Minty,0.57,13,False,,True,1.84,3.8260,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-131,4.3875,StarPets,Chroma Alienbeam,1053.00,24000,False,,False,1292.59,3.8285,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-132,4.3960,LOLGA,Harvester,10.99,250,False,,False,19.69,3.8360,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-133,4.4286,StarPets,Chroma Swirly Gun,1.55,35,False,,False,3.09,3.8644,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-134,4.4348,StarPets,Chroma Saw,1.02,23,False,,True,2.49,3.8698,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-135,4.4444,StarPets,Logchopper,0.80,18,False,,True,1.84,3.8782,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-136,4.4595,StarPets,C. Elderwood Blade,1.65,37,False,,True,3.84,3.8913,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-137,4.4667,StarPets,Slasher,0.67,15,False,,True,1.84,3.8976,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-138,4.4839,LOLGA,Snowstorm,13.90,310,False,,False,17.30,3.9126,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-139,4.4848,StarPets,Candleflame,1.48,33,False,,False,3.09,3.9135,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-140,4.4938,StarPets,Icepiercer,7.19,160,False,,False,14.29,3.9212,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-141,4.5000,StarPets,Frostsaber,0.45,10,False,,True,1.29,3.9267,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-142,4.5214,LOLGA,Rainbow Gun,18.99,420,False,,False,24.69,3.9454,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-143,4.5385,StarPets,Icebreaker,2.95,65,False,,False,4.29,3.9603,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-144,4.5452,Bloxxer,Rainbow Gun,19.09,420,False,,False,24.69,3.9662,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-145,4.5500,StarPets,Chroma Lightbringer,2.73,60,False,,False,5.49,3.9703,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-146,4.5528,Bloxxer,Darkshot,81.95,1800,False,,False,96.02,3.9728,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-147,4.6000,StarPets,Hallowgun,0.92,20,False,,True,2.19,4.0140,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-148,4.6250,StarPets,Ghost,0.37,8,False,,True,1.54,4.0358,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-149,4.6250,StarPets,Chroma Cookiecane,1.48,32,False,,True,3.69,4.0358,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-150,4.6250,StarPets,Chroma Gemstone,1.48,32,False,,True,3.69,4.0358,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-151,4.6250,StarPets,Sugar,1.48,32,False,,False,2.69,4.0358,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-152,4.6317,LOLGA,Rainbow,18.99,410,False,,False,24.69,4.0416,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-153,4.6429,StarPets,Chroma Seer,1.30,28,False,,False,1.99,4.0514,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-154,4.6561,Bloxxer,Rainbow,19.09,410,False,,False,24.69,4.0629,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-155,4.6583,StarPets,Bat,5.59,120,False,,False,9.99,4.0649,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-156,4.6755,LOLGA,Turkey,82.99,1775,False,,False,123.79,4.0798,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-157,4.6923,StarPets,Heartblade,3.05,65,False,,False,5.49,4.0945,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-158,4.6941,LOLGA,Ornament,3.99,85,False,,False,7.19,4.0961,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-159,4.7044,Bloxxer,Blossom,64.45,1370,False,,False,73.52,4.1050,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-160,4.7586,LOLGA,Borealis,6.90,145,False,,False,8.99,4.1524,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-161,4.7692,StarPets,Jinglegun,0.62,13,False,,True,1.74,4.1616,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-162,4.8047,LOLGA,Spirit,30.99,645,False,,False,43.14,4.1925,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-163,4.8214,StarPets,Chroma Ornament,87.99,1825,False,,False,136.19,4.2071,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-164,4.8281,LOLGA,Snowcannon,32.59,675,False,,False,46.79,4.2130,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-165,4.8355,LOLGA,Blizzard,14.99,310,False,,False,14.99,4.2194,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-166,4.8537,LOLGA,Flora,19.90,410,False,,False,26.29,4.2353,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-167,4.8625,StarPets,Candy,3.89,80,False,,False,7.59,4.2430,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-168,4.8800,StarPets,Chroma Luger,2.44,50,False,,False,4.89,4.2583,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-169,4.8840,LOLGA,Soul,31.99,655,False,,False,42.77,4.2618,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-170,4.8971,Bloxxer,Evergun,168.95,3450,False,,False,183.52,4.2732,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-171,4.9000,StarPets,Chill,0.49,10,False,,True,1.29,4.2757,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-172,4.9000,StarPets,Shark,0.98,20,False,,False,1.99,4.2757,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-173,4.9091,StarPets,Darkbringer,1.62,33,False,,True,3.84,4.2837,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-174,4.9257,Bloxxer,Sakura,66.99,1360,False,,False,74.79,4.2982,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-175,4.9286,LOLGA,Waves,13.80,280,False,,False,19.69,4.3007,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-176,4.9333,StarPets,Hallowscythe,1.48,30,False,,False,3.09,4.3048,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-177,4.9358,LOLGA,Xenoknife,19.99,405,False,,False,29.77,4.3070,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-178,4.9358,LOLGA,Xenoshot,19.99,405,False,,False,29.77,4.3070,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-179,4.9444,BuyBlox,Swirly Gun,0.89,18,False,,False,1.09,4.3145,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-180,4.9500,LOLGA,Bloom,19.80,400,False,,False,30.34,4.3194,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-181,4.9929,LOLGA,Australis,6.99,140,False,,False,10.64,4.3568,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-182,5.0000,StarPets,Plasmabeam,0.90,18,False,,False,2.00,4.3630,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-183,5.0000,StarPets,Iceblaster,1.65,33,False,,False,3.09,4.3630,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-184,5.0016,BuyBlox,Chroma Blizzard,275.09,5500,False,,False,275.09,4.3644,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-185,5.0492,BuyBlox,Chroma Snowstorm,214.59,4250,False,,False,236.04,4.4059,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-186,5.0500,StarPets,Chroma Candleflame,2.02,40,False,,False,3.19,4.4066,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-187,5.0526,StarPets,Elderwood Scythe,1.92,38,False,,False,3.69,4.4089,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-188,5.0588,StarPets,Blaster,0.86,17,False,,False,1.84,4.4143,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-189,5.0588,StarPets,Ginger Luger,0.86,17,False,,True,1.99,4.4143,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-190,5.0800,LOLGA,Watergun,8.89,175,False,,False,15.19,4.4328,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-191,5.0830,BuyBlox,Raygun,100.39,1975,False,,False,100.39,4.4355,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-192,5.1212,LOLGA,Elderwood Blade,1.69,33,False,,False,3.09,4.4688,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-193,5.1250,StarPets,Handsaw,0.41,8,False,,True,1.39,4.4721,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-194,5.1333,StarPets,Old Glory,0.77,15,False,,True,1.99,4.4793,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-195,5.1429,StarPets,Saw,0.36,7,False,,True,1.49,4.4877,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-196,5.1429,StarPets,Spectre,1.80,35,False,,False,3.39,4.4877,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-197,5.1538,StarPets,Cookiecane,0.67,13,False,,True,2.19,4.4972,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-198,5.1684,LOLGA,Ocean,14.73,285,False,,False,19.69,4.5100,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-199,5.1803,Bloxxer,Darksword,91.95,1775,False,,False,101.02,4.5203,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-200,5.2029,LOLGA,Heart Wand,17.69,340,False,,False,24.09,4.5401,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-201,5.2353,LOLGA,Battleaxe II,0.89,17,False,,True,1.99,4.5683,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-202,5.2368,LOLGA,Swirly Axe,1.99,38,False,,False,2.94,4.5697,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-203,5.2750,StarPets,Chroma Laser,2.11,40,False,,True,4.69,4.6030,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-204,5.2812,LOLGA,Lightbringer,1.69,32,False,,False,3.69,4.6084,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-205,5.2857,StarPets,Ice Dragon,0.37,7,False,,True,1.39,4.6123,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-206,5.2857,StarPets,Chroma Heat,1.48,28,False,,False,3.09,4.6123,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-207,5.3267,LOLGA,Icecream,7.99,150,False,,False,12.74,4.6481,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-208,5.3715,BuyBlox,Chroma Heart Wand,228.29,4250,False,,False,251.14,4.6872,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-209,5.3750,StarPets,Blood,0.43,8,False,,True,1.69,4.6902,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-210,5.3750,StarPets,Eternal III,0.43,8,False,,True,1.29,4.6902,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-211,5.3858,BuyBlox,Chroma Alienbeam,1292.59,24000,False,,False,1292.59,4.6996,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-212,5.4000,StarPets,Plasmablade,0.81,15,False,,True,2.19,4.7120,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-213,5.4118,StarPets,Pixel,0.92,17,False,,False,1.99,4.7223,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-214,5.4242,LOLGA,Candleflame,1.79,33,False,,False,3.09,4.7332,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-215,5.4444,StarPets,Icebeam,0.98,18,False,,True,2.29,4.7508,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-216,5.4545,StarPets,Elderwood Revolver,1.80,33,False,,False,3.39,4.7596,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-217,5.4706,StarPets,Battleaxe II,0.93,17,False,,False,1.99,4.7736,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-218,5.4800,LOLGA,Bauble,36.99,675,False,,False,46.79,4.7818,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-219,5.5000,MM2Store,Swirly Gun,0.99,18,False,,False,1.09,4.7993,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-220,5.5000,StarPets,Swirly Gun,0.99,18,False,,False,1.09,4.7993,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-221,5.5000,LOLGA,Pearlshine,4.40,80,False,,False,5.59,4.7993,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-222,5.5005,BuyBlox,Chroma Snowcannon,426.29,7750,False,,False,426.29,4.7998,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-223,5.5208,LOLGA,Flowerwood Gun,14.63,265,False,,False,19.69,4.8174,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-224,5.5231,LOLGA,Chroma Darkbringer,3.59,65,False,,False,5.49,4.8194,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-225,5.5667,LOLGA,Bat,6.68,120,False,,False,9.99,4.8575,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-226,5.5731,LOLGA,Flowerwood,14.49,260,False,,False,19.69,4.8631,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-227,5.5781,Bloxxer,Vampire's Axe,89.25,1600,False,,False,91.42,4.8675,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-228,5.5800,LOLGA,Chroma Luger,2.79,50,False,,False,4.89,4.8691,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-229,5.5909,StarPets,Amerilaser,1.23,22,False,,False,2.64,4.8786,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-230,5.6023,BuyBlox,Traveler's Axe,453.79,8100,False,,False,499.19,4.8886,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-231,5.6228,BuyBlox,Gingerscope,885.59,15750,False,,False,786.79,4.9065,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-232,5.6250,StarPets,Hallow's Edge,0.45,8,False,,True,1.54,4.9084,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-233,5.6667,StarPets,Luger,1.02,18,False,,False,2.19,4.9447,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-234,5.6857,LOLGA,Red Luger,1.99,35,False,,False,2.79,4.9614,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-235,5.6923,StarPets,Lugercane,0.74,13,False,,True,1.84,4.9671,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-236,5.7143,Bloxxer,Celestial,140.00,2450,False,,False,149.80,4.9863,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-237,5.7200,LOLGA,Pearl,4.29,75,False,,False,6.14,4.9913,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-238,5.7250,LOLGA,Chroma Laser,2.29,40,False,,False,4.69,4.9956,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-239,5.7273,LOLGA,Darkbringer,1.89,33,False,,False,3.84,4.9976,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-240,5.7417,BuyBlox,Evergun,198.09,3450,False,,False,183.52,5.0102,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-241,5.7795,BuyBlox,Alienbeam,115.59,2000,False,,False,127.14,5.0432,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-242,5.8333,StarPets,Gingermint,0.70,12,False,,False,1.54,5.0902,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-243,5.8494,BuyBlox,Vampire's Axe,93.59,1600,False,,False,91.42,5.1042,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-244,5.8935,BuyBlox,Chroma Raygun,825.09,14000,False,,False,825.09,5.1427,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-245,5.9062,LOLGA,Chroma Cookiecane,1.89,32,False,,False,3.69,5.1538,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-246,5.9333,StarPets,Gemstone,0.89,15,False,,True,1.99,5.1774,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-247,5.9375,StarPets,Chroma Shark,1.90,32,False,,False,2.94,5.1811,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-248,5.9429,LOLGA,Beachy,6.24,105,False,,False,9.14,5.1857,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-249,5.9429,LOLGA,Sands,6.24,105,False,,False,9.14,5.1857,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-250,5.9526,Bloxxer,Sunrise,63.99,1075,False,,False,65.69,5.1942,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-251,5.9833,LOLGA,Chroma Lightbringer,3.59,60,False,,False,5.49,5.2211,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-252,6.0000,StarPets,Prince,0.36,6,False,,True,1.39,5.2356,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-253,6.0016,MM2Store,Chroma Blizzard,330.09,5500,False,,False,275.09,5.2370,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-254,6.0285,BuyBlox,Blossom,82.59,1370,False,,False,73.52,5.2604,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-255,6.0455,StarPets,Laser,1.33,22,False,,False,2.39,5.2753,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-256,6.0586,MM2Store,Chroma Snowstorm,257.49,4250,False,,False,236.04,5.2867,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-257,6.0606,Bloxxer,Makeshift,2.00,33,False,,False,2.70,5.2885,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-258,6.0728,BuyBlox,Sakura,82.59,1360,False,,False,74.79,5.2991,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-259,6.0769,LOLGA,Eternalcane,0.79,13,False,,False,1.44,5.3027,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-260,6.0825,BuyBlox,Traveler's Gun,316.29,5200,False,,False,347.94,5.3076,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-261,6.0951,Bloxxer,Flora,24.99,410,False,,False,26.29,5.3186,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-262,6.1161,BuyBlox,Darkshot,110.09,1800,False,,False,96.02,5.3369,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-263,6.1385,LOLGA,Heartblade,3.99,65,False,,False,5.49,5.3564,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-264,6.1429,StarPets,Boneblade,0.43,7,False,,True,1.39,5.3603,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-265,6.1429,StarPets,Eternal II,0.43,7,False,,True,1.29,5.3603,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-266,6.1429,StarPets,Ghostblade,0.43,7,False,,True,1.49,5.3603,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-267,6.1538,StarPets,Deathshard,0.80,13,False,,True,1.99,5.3698,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-268,6.2000,StarPets,Heat,0.62,10,False,,True,1.49,5.4101,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-269,6.2000,BuyBlox,Borealis,8.99,145,False,,False,8.99,5.4101,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-270,6.2023,BuyBlox,Darksword,110.09,1775,False,,False,101.02,5.4121,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-271,6.2588,MM2Store,Chroma Evergun,3630.09,58000,False,,False,2714.55,5.4614,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-272,6.2688,BuyBlox,Sunrise,67.39,1075,False,,False,65.69,5.4702,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-273,6.2772,BuyBlox,Ocean,17.89,285,False,,False,19.69,5.4775,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-274,6.2939,MM2Store,Chroma Sunrise,676.59,10750,False,,False,513.30,5.4920,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-275,6.3038,BuyBlox,Soul,41.29,655,False,,False,42.77,5.5007,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-276,6.3182,LOLGA,Chroma Boneblade,1.39,22,False,,False,2.79,5.5132,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-277,6.3496,BuyBlox,Chroma Watergun,165.09,2600,False,,False,177.54,5.5407,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-278,6.3529,Bloxxer,Chroma Snowstorm,270.00,4250,False,,False,236.04,5.5436,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-279,6.3820,BuyBlox,Chroma Sweet,110.09,1725,False,,False,121.09,5.5690,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-280,6.3854,BuyBlox,Constellation,178.79,2800,False,,False,178.79,5.5719,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-281,6.3893,BuyBlox,Waves,17.89,280,False,,False,19.69,5.5753,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-282,6.3933,LOLGA,Sweet,9.59,150,False,,False,12.89,5.5788,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-283,6.4016,BuyBlox,Spirit,41.29,645,False,,False,43.14,5.5860,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-284,6.4061,MM2Store,Chroma Bauble,2178.09,34000,False,,False,1635.97,5.5900,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-285,6.4118,LOLGA,Pixel,1.09,17,False,,False,1.99,5.5949,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-286,6.4286,StarPets,Ice Shard,0.45,7,False,,True,1.39,5.6096,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-287,6.4286,StarPets,Pumpking,0.45,7,False,,True,1.09,5.6096,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-288,6.4379,BuyBlox,Chroma Snow Dagger,151.29,2350,False,,False,166.44,5.6177,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-289,6.4444,LOLGA,Logchopper,1.16,18,False,,False,1.84,5.6234,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-290,6.4452,LOLGA,Treat,9.99,155,False,,False,13.04,5.6240,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-291,6.4462,BuyBlox,Icebreaker,4.19,65,False,,False,4.29,5.6249,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-292,6.4468,MM2Store,Chroma Heart Wand,273.99,4250,False,,False,251.14,5.6255,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-293,6.4600,LOLGA,Sunset,41.99,650,False,,False,51.49,5.6370,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-294,6.4629,MM2Store,Chroma Alienbeam,1551.09,24000,False,,False,1292.59,5.6395,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-295,6.5086,LOLGA,Snow Dagger,11.39,175,False,,False,15.94,5.6794,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-296,6.5139,BuyBlox,Celestial,159.59,2450,False,,False,149.80,5.6840,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-297,6.5312,Bloxxer,Sugar,2.09,32,False,,False,2.69,5.6992,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-298,6.5429,LOLGA,Chroma Deathshard,2.29,35,False,,False,3.09,5.7093,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-299,6.5429,LOLGA,Chroma Swirly Gun,2.29,35,False,,False,3.09,5.7093,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
-300,6.5476,StarPets,Batwing,2.75,42,False,,False,5.04,5.7135,0.87260035,ECB daily reference rate,2026-09-20T17:26:21.768158+00:00
+1,2.2804,StarPets,Chroma Blizzard,125.42,5500,False,,False,275.09,1.9898,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+2,2.4905,StarPets,Blossom,34.12,1370,False,,True,82.59,2.1732,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+3,2.5544,StarPets,Traveler's Gun,132.83,5200,False,,True,379.59,2.2290,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+4,2.5875,StarPets,Sakura,35.19,1360,False,,True,82.59,2.2579,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+5,2.6552,StarPets,C. Vampire's Gun,770.02,29000,False,,False,890.64,2.3170,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+6,2.7210,StarPets,Raygun,53.74,1975,False,,False,85.19,2.3744,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+7,2.7671,StarPets,Chroma Evergreen,1162.20,42000,False,,True,2772.09,2.4146,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+8,2.7823,StarPets,Evergun,95.99,3450,False,,False,198.09,2.4279,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+9,2.8111,StarPets,Chroma Heart Wand,119.47,4250,False,,False,251.14,2.4529,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+10,2.8680,StarPets,Alienbeam,57.36,2000,False,,False,127.14,2.5026,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+11,2.8812,StarPets,Celestial,70.59,2450,False,,True,159.59,2.5142,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+12,2.9014,StarPets,Sunrise,31.19,1075,False,,False,65.69,2.5318,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+13,2.9319,StarPets,Gingerscope,461.77,15750,False,,False,786.79,2.5584,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+14,2.9343,StarPets,Vampire's Gun,51.35,1750,False,,True,123.79,2.5605,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+15,2.9382,LOLGA,Chroma Bauble,999.00,34000,False,,False,1635.97,2.5639,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+16,2.9752,StarPets,Chroma Treat,52.81,1775,False,,True,123.79,2.5962,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+17,2.9942,StarPets,Chroma Sweet,51.65,1725,False,,True,121.09,2.6127,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+18,3.0079,StarPets,Chroma Beachy,42.11,1400,False,,True,99.09,2.6247,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+19,3.0331,StarPets,Vampire's Axe,48.53,1600,False,,False,91.42,2.6467,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+20,3.0592,StarPets,Evergreen,76.48,2500,False,,True,191.99,2.6695,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+21,3.0644,StarPets,Chroma Sunrise,329.42,10750,False,,False,513.30,2.6740,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+22,3.0712,LOLGA,C. Vampire's Gun,890.64,29000,False,,False,890.64,2.6799,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+23,3.0839,StarPets,Constellation,86.35,2800,False,,True,196.69,2.6910,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+24,3.0890,StarPets,Chroma Sands,44.79,1450,False,,True,101.79,2.6954,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+25,3.1333,StarPets,Bauble,21.15,675,False,,False,46.79,2.7341,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+26,3.1513,StarPets,Chroma Raygun,441.18,14000,False,,False,825.09,2.7498,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+27,3.1521,StarPets,Chroma Evergun,1828.24,58000,False,,False,3630.09,2.7506,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+28,3.1579,StarPets,Chroma Icecream,60.00,1900,False,,True,133.39,2.7556,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+29,3.1588,StarPets,Chroma Watergun,82.13,2600,False,,True,189.99,2.7564,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+30,3.2036,StarPets,Waves,8.97,280,False,,True,21.49,2.7954,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+31,3.2143,LOLGA,Chroma Raygun,450.00,14000,False,,False,825.09,2.8048,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+32,3.2172,StarPets,Chroma Bauble,1093.85,34000,False,,False,1635.97,2.8073,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+33,3.2188,StarPets,Chroma Slasher,1.03,32,False,,True,3.09,2.8087,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+34,3.2272,StarPets,Darkshot,58.09,1800,False,,False,110.09,2.8161,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+35,3.2291,StarPets,C. Constellation,1001.02,31000,False,,False,1713.31,2.8177,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+36,3.2315,StarPets,Turkey,57.36,1775,False,,True,136.19,2.8199,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+37,3.2558,LOLGA,Chroma Sunrise,350.00,10750,False,,False,513.30,2.8410,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+38,3.2594,StarPets,Chroma Sunset,228.16,7000,False,,False,351.88,2.8442,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+39,3.2840,StarPets,Soul,21.51,655,False,,False,42.77,2.8656,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+40,3.2857,StarPets,Chroma Deathshard,1.15,35,False,,True,3.39,2.8671,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+41,3.3035,StarPets,Traveler's Axe,267.58,8100,False,,False,544.59,2.8826,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+42,3.3141,StarPets,Snowcannon,22.37,675,False,,False,46.79,2.8919,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+43,3.3289,StarPets,Chroma Snowcannon,257.99,7750,False,,False,426.29,2.9048,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+44,3.3292,LOLGA,Chroma Alienbeam,799.00,24000,False,,False,1292.59,2.9050,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+45,3.3332,LOLGA,Chroma Snow Dagger,78.33,2350,False,,False,166.44,2.9085,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+46,3.3333,StarPets,Iceflake,0.50,15,False,,True,1.99,2.9087,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+47,3.3334,LOLGA,Chroma Snowstorm,141.67,4250,False,,False,236.04,2.9087,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+48,3.3349,StarPets,Spirit,21.51,645,False,,False,43.14,2.9100,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+49,3.3769,StarPets,Sunset,21.95,650,False,,True,51.49,2.9467,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+50,3.4043,StarPets,Chroma Snow Dagger,80.00,2350,False,,False,166.44,2.9706,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+51,3.4070,StarPets,Ocean,9.71,285,False,,False,21.49,2.9730,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+52,3.4118,LOLGA,Chroma Heart Wand,145.00,4250,False,,False,251.14,2.9771,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+53,3.4167,StarPets,Rainbow Gun,14.35,420,False,,False,30.29,2.9814,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+54,3.4180,LOLGA,Gingerscope,538.33,15750,False,,False,786.79,2.9825,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+55,3.4476,LOLGA,Chroma Sands,49.99,1450,False,,False,101.79,3.0084,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+56,3.4524,LOLGA,Chroma Sunset,241.67,7000,False,,False,351.88,3.0126,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+57,3.4615,StarPets,Virtual,0.45,13,False,,True,1.69,3.0205,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+58,3.5000,StarPets,Rainbow,14.35,410,False,,False,30.29,3.0541,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+59,3.5176,StarPets,Ornament,2.99,85,False,,True,7.19,3.0695,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+60,3.5438,LOLGA,Raygun,69.99,1975,False,,False,85.19,3.0923,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+61,3.5484,LOLGA,Chroma Snowcannon,275.00,7750,False,,False,426.29,3.0963,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+62,3.5707,LOLGA,Chroma Beachy,49.99,1400,False,,False,99.09,3.1158,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+63,3.5733,StarPets,Icecream,5.36,150,False,,True,12.74,3.1181,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+64,3.5862,StarPets,Borealis,5.20,145,False,,False,9.89,3.1293,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+65,3.6045,StarPets,Darksword,63.98,1775,False,,False,110.09,3.1453,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+66,3.6286,StarPets,Beachy,3.81,105,False,,True,9.14,3.1663,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+67,3.6286,StarPets,Sands,3.81,105,False,,True,9.14,3.1663,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+68,3.6343,StarPets,Watergun,6.36,175,False,,True,16.59,3.1713,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+69,3.6714,StarPets,Australis,5.14,140,False,,True,11.59,3.2037,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+70,3.6837,LOLGA,Chroma Icecream,69.99,1900,False,,False,133.39,3.2144,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+71,3.6857,StarPets,Red Luger,1.29,35,False,,True,3.39,3.2162,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+72,3.6864,StarPets,Xenoshot,14.93,405,False,,False,29.77,3.2168,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+73,3.6923,StarPets,Eternalcane,0.48,13,False,,True,1.84,3.2219,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+74,3.6968,StarPets,Blizzard,11.46,310,False,,False,14.99,3.2258,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+75,3.7012,StarPets,Xenoknife,14.99,405,False,,False,29.77,3.2297,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+76,3.7032,StarPets,Snowstorm,11.48,310,False,,False,17.30,3.2314,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+77,3.7245,StarPets,Chroma Snowstorm,158.29,4250,False,,False,236.04,3.2500,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+78,3.7283,StarPets,Flowerwood Gun,9.88,265,False,,False,21.49,3.2533,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+79,3.7308,StarPets,Flowerwood,9.70,260,False,,False,21.49,3.2555,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+80,3.7494,LOLGA,Vampire's Axe,59.99,1600,False,,False,91.42,3.2717,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+81,3.7500,StarPets,Swirly Blade,0.45,12,False,,True,1.69,3.2723,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+82,3.8050,StarPets,Bloom,15.22,400,False,,False,33.09,3.3202,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+83,3.8255,LOLGA,Chroma Sweet,65.99,1725,False,,False,121.09,3.3381,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+84,3.8462,StarPets,Gingerblade,0.50,13,False,,True,1.29,3.3562,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+85,3.8500,StarPets,Pearlshine,3.08,80,False,,False,6.14,3.3595,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+86,3.8912,StarPets,Heart Wand,13.23,340,False,,False,24.09,3.3954,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+87,3.9067,StarPets,Pearl,2.93,75,False,,False,6.14,3.4090,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+88,3.9366,StarPets,Flora,16.14,410,False,,False,27.59,3.4351,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+89,3.9395,LOLGA,Chroma Blizzard,216.67,5500,False,,False,275.09,3.4376,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+90,3.9431,LOLGA,Chroma Treat,69.99,1775,False,,False,123.79,3.4407,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+91,3.9440,StarPets,Harvester,9.86,250,False,,False,19.69,3.4415,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+92,3.9545,StarPets,Chroma Boneblade,0.87,22,False,,True,3.09,3.4507,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+93,3.9714,StarPets,Snow Dagger,6.95,175,False,,True,15.94,3.4655,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+94,3.9994,LOLGA,Vampire's Gun,69.99,1750,False,,False,123.79,3.4899,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+95,3.9995,LOLGA,Alienbeam,79.99,2000,False,,False,127.14,3.4900,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+96,4.0600,StarPets,Sweet,6.09,150,False,,False,12.89,3.5428,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+97,4.0741,StarPets,Chroma Gingerblade,1.10,27,False,,True,3.39,3.5550,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+98,4.1000,StarPets,Clockwork,0.41,10,False,,True,1.39,3.5777,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+99,4.1096,LOLGA,Chroma Ornament,75.00,1825,False,,False,136.19,3.5860,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+100,4.1111,StarPets,Logchopper,0.74,18,False,,True,1.99,3.5874,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+101,4.1111,StarPets,Chroma Tides,1.11,27,False,,True,3.09,3.5874,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+102,4.1212,StarPets,Elderwood Blade,1.36,33,False,,True,3.09,3.5962,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+103,4.1304,StarPets,Green Luger,0.95,23,False,,True,2.99,3.6042,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+104,4.1786,StarPets,Chroma Seer,1.17,28,False,,False,2.19,3.6462,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+105,4.2298,LOLGA,Sunrise,45.47,1075,False,,False,65.69,3.6909,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+106,4.2424,StarPets,Candleflame,1.40,33,False,,True,3.39,3.7019,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+107,4.2500,StarPets,Chroma Fang,1.36,32,False,,False,2.79,3.7086,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+108,4.3000,StarPets,Fang,0.43,10,False,,True,2.00,3.7522,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+109,4.3000,StarPets,Frostsaber,0.43,10,False,,True,1.39,3.7522,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+110,4.3000,StarPets,Spider,0.43,10,False,,True,1.69,3.7522,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+111,4.3032,StarPets,Treat,6.67,155,False,,False,13.04,3.7550,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+112,4.3421,StarPets,Swirly Axe,1.65,38,False,,False,3.19,3.7889,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+113,4.3682,Bloxxer,Gingerscope,687.99,15750,False,,False,786.79,3.8117,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+114,4.3846,StarPets,Minty,0.57,13,False,,True,1.99,3.8260,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+115,4.3875,StarPets,Chroma Alienbeam,1053.00,24000,False,,False,1292.59,3.8285,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+116,4.3960,LOLGA,Harvester,10.99,250,False,,False,19.69,3.8360,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+117,4.4154,StarPets,Chroma Darkbringer,2.87,65,False,,False,5.99,3.8529,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+118,4.4242,StarPets,Iceblaster,1.46,33,False,,False,3.09,3.8606,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+119,4.4286,StarPets,Chroma Swirly Gun,1.55,35,False,,False,3.39,3.8644,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+120,4.4500,StarPets,Hallowgun,0.89,20,False,,True,2.19,3.8831,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+121,4.4595,StarPets,C. Elderwood Blade,1.65,37,False,,True,3.84,3.8913,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+122,4.4643,StarPets,Chroma Heat,1.25,28,False,,True,3.09,3.8955,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+123,4.4783,StarPets,Chroma Saw,1.03,23,False,,True,2.49,3.9077,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+124,4.4839,LOLGA,Snowstorm,13.90,310,False,,False,17.30,3.9126,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+125,4.4848,StarPets,Makeshift,1.48,33,False,,True,3.39,3.9135,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+126,4.5188,StarPets,Icepiercer,7.23,160,False,,False,14.29,3.9431,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+127,4.5333,StarPets,Slasher,0.68,15,False,,True,1.99,3.9558,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+128,4.5385,StarPets,Icebreaker,2.95,65,False,,False,4.29,3.9603,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+129,4.5452,Bloxxer,Rainbow Gun,19.09,420,False,,False,30.29,3.9662,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+130,4.5528,Bloxxer,Darkshot,81.95,1800,False,,False,110.09,3.9728,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+131,4.6250,StarPets,Ghost,0.37,8,False,,True,1.54,4.0358,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+132,4.6250,StarPets,Chroma Gemstone,1.48,32,False,,True,3.69,4.0358,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+133,4.6250,StarPets,Lightbringer,1.48,32,False,,True,3.99,4.0358,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+134,4.6250,StarPets,Bat,5.55,120,False,,False,9.99,4.0358,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+135,4.6561,Bloxxer,Rainbow,19.09,410,False,,False,30.29,4.0629,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+136,4.6667,StarPets,Hallowscythe,1.40,30,False,,False,3.09,4.0721,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+137,4.6923,StarPets,Heartblade,3.05,65,False,,False,5.49,4.0945,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+138,4.6941,LOLGA,Ornament,3.99,85,False,,False,7.19,4.0961,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+139,4.7044,Bloxxer,Blossom,64.45,1370,False,,False,82.59,4.1050,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+140,4.7500,StarPets,Blood,0.38,8,False,,True,1.69,4.1449,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+141,4.7500,StarPets,Eternal III,0.38,8,False,,True,1.39,4.1449,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+142,4.8000,StarPets,Chill,0.48,10,False,,True,1.39,4.1885,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+143,4.8000,StarPets,Phantom,1.68,35,False,,False,3.69,4.1885,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+144,4.8047,LOLGA,Spirit,30.99,645,False,,False,43.14,4.1925,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+145,4.8214,StarPets,Chroma Ornament,87.99,1825,False,,False,136.19,4.2071,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+146,4.8235,StarPets,Battleaxe II,0.82,17,False,,True,1.99,4.2090,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+147,4.8281,LOLGA,Snowcannon,32.59,675,False,,False,46.79,4.2130,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+148,4.8355,LOLGA,Blizzard,14.99,310,False,,False,14.99,4.2194,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+149,4.8375,StarPets,Candy,3.87,80,False,,False,7.59,4.2212,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+150,4.8667,StarPets,Chroma Lightbringer,2.92,60,False,,False,5.99,4.2467,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+151,4.8824,StarPets,Ginger Luger,0.83,17,False,,True,2.39,4.2603,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+152,4.8840,LOLGA,Soul,31.99,655,False,,False,42.77,4.2618,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+153,4.8971,Bloxxer,Evergun,168.95,3450,False,,False,198.09,4.2732,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+154,4.9257,Bloxxer,Sakura,66.99,1360,False,,False,82.59,4.2982,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+155,4.9358,LOLGA,Xenoknife,19.99,405,False,,False,29.77,4.3070,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+156,4.9358,LOLGA,Xenoshot,19.99,405,False,,False,29.77,4.3070,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+157,4.9375,StarPets,Chroma Cookiecane,1.58,32,False,,True,3.99,4.3085,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+158,4.9444,BuyBlox,Swirly Gun,0.89,18,False,,False,0.99,4.3145,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+159,5.0000,StarPets,Spectre,1.75,35,False,,False,3.69,4.3630,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+160,5.0000,StarPets,Chroma Luger,2.50,50,False,,False,4.89,4.3630,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+161,5.0016,BuyBlox,Chroma Blizzard,275.09,5500,False,,False,275.09,4.3644,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+162,5.0492,BuyBlox,Chroma Snowstorm,214.59,4250,False,,False,236.04,4.4059,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+163,5.0500,StarPets,Chroma Candleflame,2.02,40,False,,False,3.39,4.4066,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+164,5.0526,StarPets,Elderwood Scythe,1.92,38,False,,False,3.69,4.4089,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+165,5.0830,BuyBlox,Raygun,100.39,1975,False,,False,85.19,4.4355,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+166,5.1212,LOLGA,Elderwood Blade,1.69,33,False,,False,3.09,4.4688,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+167,5.1250,StarPets,Sugar,1.64,32,False,,False,2.69,4.4721,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+168,5.1333,StarPets,Old Glory,0.77,15,False,,True,1.99,4.4793,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+169,5.1429,StarPets,Saw,0.36,7,False,,True,1.49,4.4877,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+170,5.1500,StarPets,Shark,1.03,20,False,,False,2.19,4.4939,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+171,5.1803,Bloxxer,Darksword,91.95,1775,False,,False,110.09,4.5203,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+172,5.2029,LOLGA,Heart Wand,17.69,340,False,,False,24.09,4.5401,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+173,5.2353,LOLGA,Battleaxe II,0.89,17,False,,True,1.99,4.5683,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+174,5.2353,StarPets,Blaster,0.89,17,False,,True,1.99,4.5683,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+175,5.2727,StarPets,Darkbringer,1.74,33,False,,True,4.19,4.6010,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+176,5.2857,StarPets,Ice Dragon,0.37,7,False,,True,1.49,4.6123,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+177,5.3267,LOLGA,Icecream,7.99,150,False,,False,12.74,4.6481,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+178,5.3333,StarPets,Icebeam,0.96,18,False,,True,2.49,4.6539,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+179,5.3333,StarPets,Plasmabeam,0.96,18,False,,False,2.00,4.6539,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+180,5.3715,BuyBlox,Chroma Heart Wand,228.29,4250,False,,False,251.14,4.6872,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+181,5.3750,StarPets,Handsaw,0.43,8,False,,True,1.39,4.6902,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+182,5.3858,BuyBlox,Chroma Alienbeam,1292.59,24000,False,,False,1292.59,4.6996,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+183,5.4118,StarPets,Pixel,0.92,17,False,,True,2.19,4.7223,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+184,5.4250,StarPets,Chroma Laser,2.17,40,False,,True,5.19,4.7339,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+185,5.4545,StarPets,Elderwood Revolver,1.80,33,False,,False,3.39,4.7596,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+186,5.4615,StarPets,Jinglegun,0.71,13,False,,True,1.89,4.7657,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+187,5.4800,LOLGA,Bauble,36.99,675,False,,False,46.79,4.7818,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+188,5.5000,MM2Store,Swirly Gun,0.99,18,False,,False,0.99,4.7993,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+189,5.5000,StarPets,Swirly Gun,0.99,18,False,,False,0.99,4.7993,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+190,5.5000,StarPets,Laser,1.21,22,False,,False,2.64,4.7993,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+191,5.5005,BuyBlox,Chroma Snowcannon,426.29,7750,False,,False,426.29,4.7998,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+192,5.5667,LOLGA,Bat,6.68,120,False,,False,9.99,4.8575,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+193,5.5714,StarPets,Ice Shard,0.39,7,False,,True,1.49,4.8616,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+194,5.5781,Bloxxer,Vampire's Axe,89.25,1600,False,,False,91.42,4.8675,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+195,5.6023,BuyBlox,Traveler's Axe,453.79,8100,False,,False,544.59,4.8886,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+196,5.6228,BuyBlox,Gingerscope,885.59,15750,False,,False,786.79,4.9065,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+197,5.6250,StarPets,Hallow's Edge,0.45,8,False,,True,1.54,4.9084,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+198,5.6667,StarPets,Luger,1.02,18,False,,True,2.39,4.9447,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+199,5.6923,StarPets,Cookiecane,0.74,13,False,,True,2.39,4.9671,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+200,5.7143,Bloxxer,Celestial,140.00,2450,False,,False,159.59,4.9863,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+201,5.7417,BuyBlox,Evergun,198.09,3450,False,,False,198.09,5.0102,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+202,5.7795,BuyBlox,Alienbeam,115.59,2000,False,,False,127.14,5.0432,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+203,5.8333,StarPets,Gingermint,0.70,12,False,,True,1.69,5.0902,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+204,5.8438,StarPets,Chroma Shark,1.87,32,False,,False,3.59,5.0993,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+205,5.8494,BuyBlox,Vampire's Axe,93.59,1600,False,,False,91.42,5.1042,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+206,5.8935,BuyBlox,Chroma Raygun,825.09,14000,False,,False,825.09,5.1427,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+207,5.9091,StarPets,Amerilaser,1.30,22,False,,False,2.64,5.1563,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+208,5.9333,StarPets,Plasmablade,0.89,15,False,,True,2.39,5.1774,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+209,5.9429,LOLGA,Beachy,6.24,105,False,,False,9.14,5.1857,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+210,5.9429,LOLGA,Sands,6.24,105,False,,False,9.14,5.1857,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+211,5.9526,Bloxxer,Sunrise,63.99,1075,False,,False,65.69,5.1942,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+212,6.0000,StarPets,Prince,0.36,6,False,,True,1.39,5.2356,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+213,6.0000,StarPets,Tides,0.60,10,False,,True,1.49,5.2356,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+214,6.0016,MM2Store,Chroma Blizzard,330.09,5500,False,,False,275.09,5.2370,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+215,6.0285,BuyBlox,Blossom,82.59,1370,False,,False,82.59,5.2604,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+216,6.0586,MM2Store,Chroma Snowstorm,257.49,4250,False,,False,236.04,5.2867,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+217,6.0606,Bloxxer,Makeshift,2.00,33,False,,False,3.39,5.2885,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+218,6.0728,BuyBlox,Sakura,82.59,1360,False,,False,82.59,5.2991,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+219,6.0825,BuyBlox,Traveler's Gun,316.29,5200,False,,False,379.59,5.3076,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+220,6.0951,Bloxxer,Flora,24.99,410,False,,False,27.59,5.3186,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+221,6.1161,BuyBlox,Darkshot,110.09,1800,False,,False,110.09,5.3369,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+222,6.1385,LOLGA,Heartblade,3.99,65,False,,False,5.49,5.3564,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+223,6.1429,StarPets,Boneblade,0.43,7,False,,True,1.49,5.3603,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+224,6.1429,StarPets,Eternal II,0.43,7,False,,True,1.39,5.3603,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+225,6.1538,StarPets,Deathshard,0.80,13,False,,True,2.19,5.3698,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+226,6.1538,StarPets,Lugercane,0.80,13,False,,True,1.99,5.3698,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+227,6.2000,BuyBlox,Borealis,8.99,145,False,,False,9.89,5.4101,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+228,6.2023,BuyBlox,Darksword,110.09,1775,False,,False,110.09,5.4121,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+229,6.2588,MM2Store,Chroma Evergun,3630.09,58000,False,,False,3630.09,5.4614,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+230,6.2667,StarPets,Gemstone,0.94,15,False,,False,1.99,5.4683,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+231,6.2688,BuyBlox,Sunrise,67.39,1075,False,,False,65.69,5.4702,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+232,6.2772,BuyBlox,Ocean,17.89,285,False,,False,21.49,5.4775,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+233,6.2939,MM2Store,Chroma Sunrise,676.59,10750,False,,False,513.30,5.4920,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+234,6.3038,BuyBlox,Soul,41.29,655,False,,False,42.77,5.5007,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+235,6.3496,BuyBlox,Chroma Watergun,165.09,2600,False,,False,189.99,5.5407,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+236,6.3529,Bloxxer,Chroma Snowstorm,270.00,4250,False,,False,236.04,5.5436,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+237,6.3820,BuyBlox,Chroma Sweet,110.09,1725,False,,False,121.09,5.5690,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+238,6.3854,BuyBlox,Constellation,178.79,2800,False,,False,196.69,5.5719,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+239,6.3893,BuyBlox,Waves,17.89,280,False,,False,21.49,5.5753,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+240,6.3933,LOLGA,Sweet,9.59,150,False,,False,12.89,5.5788,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+241,6.4016,BuyBlox,Spirit,41.29,645,False,,False,43.14,5.5860,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+242,6.4061,MM2Store,Chroma Bauble,2178.09,34000,False,,False,1635.97,5.5900,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+243,6.4286,StarPets,Ghostblade,0.45,7,False,,True,1.49,5.6096,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+244,6.4286,StarPets,Pumpking,0.45,7,False,,True,1.19,5.6096,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+245,6.4379,BuyBlox,Chroma Snow Dagger,151.29,2350,False,,False,166.44,5.6177,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+246,6.4452,LOLGA,Treat,9.99,155,False,,False,13.04,5.6240,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+247,6.4462,BuyBlox,Icebreaker,4.19,65,False,,False,4.29,5.6249,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+248,6.4468,MM2Store,Chroma Heart Wand,273.99,4250,False,,False,251.14,5.6255,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+249,6.4600,LOLGA,Sunset,41.99,650,False,,False,51.49,5.6370,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+250,6.4629,MM2Store,Chroma Alienbeam,1551.09,24000,False,,False,1292.59,5.6395,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+251,6.5086,LOLGA,Snow Dagger,11.39,175,False,,False,15.94,5.6794,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+252,6.5139,BuyBlox,Celestial,159.59,2450,False,,False,159.59,5.6840,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+253,6.5238,StarPets,Batwing,2.74,42,False,,False,5.04,5.6927,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+254,6.5312,Bloxxer,Sugar,2.09,32,False,,False,2.69,5.6992,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+255,6.5562,LOLGA,Icepiercer,10.49,160,False,,False,14.29,5.7210,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+256,6.6000,LOLGA,Icebreaker,4.29,65,False,,False,4.29,5.7592,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+257,6.6002,MM2Store,Chroma Evergreen,2772.09,42000,False,,False,2772.09,5.7593,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+258,6.6012,MM2Store,Chroma Snowcannon,511.59,7750,False,,False,426.29,5.7602,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+259,6.6013,MM2Store,Chroma Sunset,462.09,7000,False,,False,351.88,5.7603,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+260,6.6036,BuyBlox,Evergreen,165.09,2500,False,,False,191.99,5.7623,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+261,6.6111,Luger,Swirly Gun,1.19,18,False,,False,0.99,5.7689,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+262,6.6364,LOLGA,Elderwood Revolver,2.19,33,False,,False,3.39,5.7909,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+263,6.6742,BuyBlox,Blizzard,20.69,310,False,,False,14.99,5.8239,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+264,6.6742,BuyBlox,Snowstorm,20.69,310,False,,False,17.30,5.8239,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+265,6.7143,StarPets,America,0.47,7,False,,True,1.39,5.8589,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+266,6.7233,MM2Store,Traveler's Axe,544.59,8100,False,,False,544.59,5.8668,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+267,6.7293,BuyBlox,Flora,27.59,410,False,,False,27.59,5.8720,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+268,6.7472,MM2Store,Gingerscope,1062.69,15750,False,,False,786.79,5.8876,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+269,6.7509,BuyBlox,Flowerwood Gun,17.89,265,False,,False,21.49,5.8909,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+270,6.7557,Bloxxer,Soul,44.25,655,False,,False,42.77,5.8950,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+271,6.7830,BuyBlox,Chroma Ornament,123.79,1825,False,,False,136.19,5.9189,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+272,6.8123,BuyBlox,Xenoknife,27.59,405,False,,False,29.77,5.9445,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+273,6.8123,BuyBlox,Xenoshot,27.59,405,False,,False,29.77,5.9445,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+274,6.8462,StarPets,Nebula,0.89,13,False,,False,1.74,5.9740,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+275,6.8571,StarPets,Eternal,0.48,7,False,,True,1.39,5.9835,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+276,6.8571,StarPets,Xmas,0.48,7,False,,True,1.69,5.9835,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+277,6.8667,StarPets,Vampire's Edge,1.03,15,False,,True,2.29,5.9919,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+278,6.8808,BuyBlox,Flowerwood,17.89,260,False,,False,21.49,6.0042,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+279,6.8896,MM2Store,Evergun,237.69,3450,False,,False,198.09,6.0118,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+280,6.8975,BuyBlox,Bloom,27.59,400,False,,False,33.09,6.0188,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+281,6.9214,BuyBlox,Australis,9.69,140,False,,False,11.59,6.0396,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+282,6.9319,BuyBlox,Bauble,46.79,675,False,,False,46.79,6.0487,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+283,6.9319,BuyBlox,Snowcannon,46.79,675,False,,False,46.79,6.0487,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+284,6.9345,MM2Store,Alienbeam,138.69,2000,False,,False,127.14,6.0510,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+285,6.9500,StarPets,Nightblade,1.39,20,False,,False,2.29,6.0646,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+286,6.9741,BuyBlox,Chroma Treat,123.79,1775,False,,False,123.79,6.0856,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+287,6.9741,BuyBlox,Turkey,123.79,1775,False,,False,136.19,6.0856,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+288,6.9750,BuyBlox,Chroma Candleflame,2.79,40,False,,False,3.39,6.0864,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+289,6.9752,Bloxxer,Spirit,44.99,645,False,,False,43.14,6.0866,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+290,6.9782,Luger,C. Traveler's Gun,11165.09,160000,False,,False,,6.0892,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+291,6.9875,BuyBlox,Pearlshine,5.59,80,False,,False,6.14,6.0973,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+292,7.0016,Luger,Chroma Blizzard,385.09,5500,False,,False,275.09,6.1096,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+293,7.0181,MM2Store,Vampire's Axe,112.29,1600,False,,False,91.42,6.1240,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+294,7.0200,BuyBlox,Chroma Sands,101.79,1450,False,,False,101.79,6.1257,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+295,7.0205,BuyBlox,Chroma Icecream,133.39,1900,False,,False,133.39,6.1261,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+296,7.0235,Bloxxer,Traveler's Axe,568.90,8100,False,,False,544.59,6.1287,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+297,7.0680,Luger,Chroma Snowstorm,300.39,4250,False,,False,236.04,6.1675,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+298,7.0721,MM2Store,Chroma Raygun,990.09,14000,False,,False,825.09,6.1711,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+299,7.0737,BuyBlox,Vampire's Gun,123.79,1750,False,,False,123.79,6.1725,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
+300,7.0769,StarPets,Icewing,0.92,13,False,,False,1.74,6.1753,0.87260035,ECB daily reference rate,2026-09-20T19:41:45.047000+00:00
